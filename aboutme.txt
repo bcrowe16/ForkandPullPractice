@@ -1,5 +1,6 @@
 This Text File contains an 'About Me' from each contributor:
 
+My name is Bernard.  I am an Apprentice Application Developer at IBM.  I love sports, video games, and cooking.  I think Jessie and Frank are pretty cool.
 
 
 
